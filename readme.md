@@ -4,7 +4,7 @@ You can check the project here Online!
 https://3d-text-threejs-1onc6skjy-george-tsoumanis-projects.vercel.app
 
 
-## Setup
+## Local Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
